@@ -1,0 +1,6 @@
+c=2
+sum=0
+while c<=50:
+      sum=sum+c
+      c=c+2
+print("sum of even numbers",sum)
